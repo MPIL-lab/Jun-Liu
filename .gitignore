@@ -1,0 +1,15 @@
+# Ignore everything by default.
+*
+
+# Keep the deployable HTML page and the assets it directly references.
+!.gitignore
+!index.html
+!assets/
+!assets/main.css
+!jun-liu.jpg
+!LancasterUniversity_logos (2)/
+!LancasterUniversity_logos (2)/LU---Logo---Positive-_RGB_.png
+
+# Keep local agent instructions out of the website repository.
+AGENTS.md
+agent.md
